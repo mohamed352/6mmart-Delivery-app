@@ -334,7 +334,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1000163153346:android:f608711d571bbcf006b25b",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixam_mart_delivery_app"
+          "package_name": "com.garak.app.delivery"
         }
       },
       "oauth_client": [
@@ -342,7 +342,7 @@
           "client_id": "1000163153346-fgr7sa2f4k0vitn392qf2dlektn15fmd.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.sixamtech.sixam_mart_delivery_app",
+            "package_name": "com.garak.app.delivery",
             "certificate_hash": "9b0733b6ffecd24da16ceaaacdad4b538565c884"
           }
         },

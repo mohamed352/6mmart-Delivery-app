@@ -47,7 +47,6 @@ dependencies:
   just_the_tooltip: ^0.0.12
   flutter_svg: ^2.0.10+1
   firebase_auth: ^4.20.0
-
 dev_dependencies:
   flutter_test:
     sdk: flutter

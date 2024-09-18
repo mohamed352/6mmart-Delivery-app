@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sixamtech.sixam_mart_delivery_app"
+    package="com.garak.app.delivery"
     xmlns:tools="http://schemas.android.com/tools">
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -29,7 +29,7 @@
 
     <application
         tools:replace="android:label"
-        android:label="6amMart Delivery"
+        android:label="Garak Captain"
         android:name="${applicationName}"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
@@ -77,7 +77,7 @@
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <service
-            android:name="com.sixamtech.sixam_mart_delivery_app.BackgroundService"
+            android:name="com.garak.app.delivery.BackgroundService"
             android:enabled="true"
             android:exported="false" />
         <meta-data

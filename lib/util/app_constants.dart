@@ -2,10 +2,10 @@ import 'package:sixam_mart_delivery/features/language/domain/models/language_mod
 import 'package:sixam_mart_delivery/util/images.dart';
 
 class AppConstants {
-  static const String appName = '6amMart Delivery';
+  static const String appName = 'Garak Captain';
   static const double appVersion = 2.9; ///Flutter sdk 3.22.3
 
-  static const String baseUrl = 'https://6ammart-admin.6amtech.com';
+  static const String baseUrl = 'https://log.garakapp.com';
 
   static const String configUri = '/api/v1/config';
   static const String forgetPasswordUri = '/api/v1/auth/delivery-man/forgot-password';
@@ -93,8 +93,8 @@ class AppConstants {
   static const String vendor = 'vendor';
 
   static List<LanguageModel> languages = [
-    LanguageModel(imageUrl: Images.english, languageName: 'English', countryCode: 'US', languageCode: 'en'),
     LanguageModel(imageUrl: Images.arabic, languageName: 'Arabic', countryCode: 'SA', languageCode: 'ar'),
+    LanguageModel(imageUrl: Images.english, languageName: 'English', countryCode: 'US', languageCode: 'en'),
     //LanguageModel(imageUrl: Images.spanish, languageName: 'Spanish', countryCode: 'ES', languageCode: 'es'),
     //LanguageModel(imageUrl: Images.bangla, languageName: 'Bengali', countryCode: 'BN', languageCode: 'bn'),
   ];

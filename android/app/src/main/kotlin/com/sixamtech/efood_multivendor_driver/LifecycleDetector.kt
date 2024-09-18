@@ -1,4 +1,4 @@
-package com.sixamtech.sixam_mart_delivery_app
+package com.garak.app.delivery
 
 import android.app.Activity
 import android.app.Application
